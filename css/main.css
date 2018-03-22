@@ -58,3 +58,7 @@ footer {
     box-shadow: 0 0 1rem 1.7rem rgba(25, 25, 25, 0.7);
     margin: 5.6rem auto 0.5rem;
 }
+
+.orange {
+    color: #ff7c0f;
+}
